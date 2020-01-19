@@ -1,0 +1,6 @@
+[submodule "ece368--proj1"]
+	path = ece368--proj1
+	url = https://github.com/Ranjanbehl/ece368--proj1
+[submodule "ece368-proj2"]
+	path = ece368-proj2
+	url = https://github.com/Ranjanbehl/ece368-proj2
